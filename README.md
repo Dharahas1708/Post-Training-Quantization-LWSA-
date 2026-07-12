@@ -51,14 +51,3 @@ Compared to cloud-based inference, the proposed approach eliminates network late
 ├── README.md
 └── requirements.txt
 ```
-
-## Future Improvements
-
-- Support more plant species
-- Real-time camera detection
-- Mobile application integration
-- Disease treatment recommendations
-
-## License
-
-This project is licensed under the MIT License.
